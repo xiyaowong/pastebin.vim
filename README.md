@@ -1,1 +1,6 @@
 # pastebin.vim
+
+```
+:Pastebin
+```
+
